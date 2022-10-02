@@ -1,4 +1,4 @@
-package ex05;
+package ex12;
 
 public class TUI {
 
